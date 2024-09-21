@@ -1,1 +1,5 @@
-Font Jetbrains Mono
+Tugas:
+
+Membuat program untuk operator perhitungan
+1. Buatlah sebuah operasi matematika ketika route '/operasi-matematika' diakses
+lakukakn operasi matematika sederhana penjumlahan, pengurangan, perkalian, dan pembagian
